@@ -21,8 +21,7 @@ build/
 client/dist/
 server/dist/
 
-# Temporary Page Screenshots
-page*.png
+
 
 # Logs & Diagnostics
 *.log
