@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+.pnpm-store/
+.yarn/
+
+# Environment Variables & Secrets
+.env
+*.env
+server/.env
+client/.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build & Output Directories
+dist/
+build/
+client/dist/
+server/dist/
+
+# Temporary Page Screenshots
+page*.png
+
+# Logs & Diagnostics
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Operating System & Editor Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Antigravity Scratch & Task logs
+.system_generated/
+scratch/
