@@ -43,6 +43,4 @@ Thumbs.db
 *.sln
 *.swp
 
-# Antigravity Scratch & Task logs
-.system_generated/
-scratch/
+
